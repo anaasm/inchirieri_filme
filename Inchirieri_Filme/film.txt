@@ -1,0 +1,4 @@
+1;Sabrina;Interzis sub 16 ani;Horror,SF
+2;West World;Interzis sub 18 ani;Drama,SF
+3;Friends;About Friends;Comedie
+4;TrueBlood;Interzis;Horror
